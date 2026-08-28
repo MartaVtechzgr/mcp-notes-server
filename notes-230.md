@@ -1,0 +1,1 @@
+- idea: add a CLI flag
